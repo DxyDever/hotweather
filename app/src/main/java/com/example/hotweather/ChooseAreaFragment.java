@@ -412,9 +412,7 @@ public class ChooseAreaFragment extends Fragment {
                         activity.requestWeather(weatherId);
                     }
                 }
-
             }
-
         });
 
         backButton.setOnClickListener(new View.OnClickListener() {
